@@ -1,6 +1,6 @@
 # 📈 **Linear Regression from Scratch**
 
-This project implements the linear regression model using **Python**, **Jupyter Notebooks**, **NumPy** and **matplotlib**.
+This project implements the linear regression model using **Python**, **Jupyter Notebooks**, **NumPy** and **Matplotlib**.
 
 ## **Requisites**
 - Python 3.13 or newer
