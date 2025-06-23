@@ -37,8 +37,6 @@ x,y
     ```
     poetry run jupyter notebook linear_regression_from_scratch/linear_regression.ipynb
     ```
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ## **Author**
 Marcos Araujo — marcos.nevary@gmail.com
