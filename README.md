@@ -31,7 +31,7 @@ x,y
     ```
 3. Activate the virtual environment:
     ```
-    poetry shell
+    poetry env activate
     ```
 4. Run the Jupyter Notebook:
     ```
