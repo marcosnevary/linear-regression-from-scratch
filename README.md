@@ -35,7 +35,7 @@ x,y
     ```
 4. Run the Jupyter Notebook:
     ```
-    poetry run jupyter notebook linear_regression_from_scratch/linear_regression.ipynb
+    poetry run jupyter notebook src/linear_regression.ipynb
     ```
 
 ## **Author**
